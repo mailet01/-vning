@@ -1,0 +1,3 @@
+ nu gör jag ett nytt försök att koda i git.
+ hoppas det går bättre denna gång.
+
